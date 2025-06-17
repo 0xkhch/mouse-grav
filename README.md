@@ -1,6 +1,6 @@
 # Compile
 ```
-git clone https://github.com/Hohki/mouse-gravitation.git
+git clone https://github.com/0xkhch/mouse-grav.git
 cd mouse-gravitation
 ./build.sh
 ```
